@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+outputs/logs/
+outputs/*_best.keras
+data/
+.DS_Store
+*.egg-info/
+dist/
+build/
+.env
+venv/
